@@ -407,7 +407,7 @@
         <div class="article-header">
             <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
                 <a href="${servePath}">
-                    <svg><use xlink:href="#logo"></use></svg>
+                    <img src="${servePath}/images/sym-logo300-black.png" width="128" height="128">
                 </a>
             </h1>
             <h2 class="fn-ellipsis fn-pointer" onclick="Util.goTop()">

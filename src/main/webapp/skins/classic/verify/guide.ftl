@@ -122,11 +122,11 @@
                             </ul>
                         </div>
                         <div class="fn-none ft-center">
-                            <a href="https://github.com/b3log/symphony" target="_blank"><img src="${staticServePath}/images/sym-logo300-1.png" width="180px"></a> <br/> <br/><br/><br/>
+                            <a href="https://github.com/b3log/symphony" target="_blank"><img src="${staticServePath}/images/sym-logo300-black.png" width="180px"></a> <br/> <br/><br/><br/>
                             <iframe src="https://ghbtns.com/github-btn.html?user=b3log&repo=symphony&type=star&count=true&size=large" frameborder="0" scrolling="0" width="130px" height="30px"></iframe>
                         </div>
                         <div class="fn-none list">
-                            <div class="ft-center"> <svg><use xlink:href="#logo"></use></svg> </div> <br/>
+                            <div class="ft-center"> <img src="${servePath}/images/sym-logo300-black.png" width="128" height="128"> </div> <br/>
                             <ul>
                                 <li>
                                     <a href="${servePath}/about">${getStartLabel}</a>

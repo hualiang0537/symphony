@@ -32,7 +32,7 @@
             <div class="wrapper verify">
                 <div class="verify-wrap">
                     <div class="form">
-                        <svg><use xlink:href="#logo"></use></svg>
+                        <img src="${servePath}/images/sym-logo300-black.png" width="128" height="128">
                         <div class="input-wrap">
                             <svg><use xlink:href="#userrole"></use></svg>
                             <input id="nameOrEmail" type="text" autofocus="autofocus" placeholder="${nameOrEmailLabel}" autocomplete="off" />
